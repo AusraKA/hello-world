@@ -2,4 +2,4 @@
 
 Hi there!
 
-I'm an aspiring Pythonista ready to kick some ass and take some names.
+Just playing around the GitHub to get me started.
